@@ -155,14 +155,17 @@ For any questions or issues, refer to the help section or contact the tool's mai
 - **Backup Your Files**: Always make sure to back up important files before encrypting them.
 - **Password Security**: Never share your password or key file. Losing the password means losing access to the encrypted files.
 - **Use Isolated Environments**: For added security, use the tool in a secure environment to protect your data.
+- **You can experiment this tool on the prebuilt directory named `Target` which comes along with this utility for the users to check the compactability.**
+- **Develop Trust**: After gaining full trust on this utility by experimenting on the `Target` directory, you are free and safe to use this tool.
+- **Use this tool only if you have knowledge about file encryption and decryption.**
 
 ---
 
 # Author
 
-*Created by Visvasrk and team*
-*Human Nowhere*
-*As a part of python file utility program*
-*Date : 15 December 2024*
+- **Created by Visvasrk and team**
+- **Human Nowhere**
+- **As a part of python file utility program**
+- **Date** : *15 December 2024*
 
-
+---
