@@ -1,4 +1,4 @@
-# FileCrypter-A1
+# FileCrypter-A1 (or) Crypto-Grapher-A1
 
 ## Overview
 
@@ -60,7 +60,7 @@ For any questions or issues, refer to the help section or contact the tool's mai
 ## Running the Script
 
 1. **Run the script**: Open the terminal and run the Python script using the following command:
-   python crypter.py
+   ```python crypter.py```
 
 2. **Menu Options**: Once the script is running, the following options are available to choose from:
 
@@ -158,5 +158,11 @@ For any questions or issues, refer to the help section or contact the tool's mai
 
 ---
 
+# Author
+
+*Created by Visvasrk and team*
+*Human Nowhere*
+*As a part of python file utility program*
+*Date : 15 December 2024*
 
 
